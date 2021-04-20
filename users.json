@@ -1,23 +1,5 @@
 [
   {
-    "email": "test1@test.com"
-  },
-  {
-    "email": "test@test.com",
-    "password": "password",
-    "id": "adf3cdeb"
-  },
-  {
-    "email": "test2@test.com",
-    "password": "password",
-    "id": "8f6b59f4"
-  },
-  {
-    "email": "test3@test.com",
-    "password": "password",
-    "id": "4e8b014c"
-  },
-  {
     "email": "test4@test.com",
     "password": "ec8ccb15f0d75fab2915215299c2cb534d249eb5fbe95fe6afc786351b441c1f965a12b311387f30de916001d7785f3d23f90b01cf05ac34f6e4bb2ee29c82b2.166716504c946023",
     "id": "45bf5b13"
